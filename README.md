@@ -2,7 +2,7 @@
 
 Challenge to create a CRUD of clients with Spring Boot.
 
-## ✔️ CHECKLIST:
+## ✔️ Checklist:
 
 1. Searching by ID returns an existing client.
 2. Searching by ID returns a 404 for a non-existent client.
